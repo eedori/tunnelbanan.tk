@@ -17,7 +17,7 @@
 
 ## How To Use
 
-Have a big screen, Visit the website, [tunnelbanan](http:/tunnelbanan.tk) and sit back and relax!    If i havent already, the source code should be up for grabs. You can otherwise email me for it. To run it, you'll need a couple things...
+Have a big screen, Visit the website, [tunnelbanan](http:/tunnelbanan.tk) and sit back and relax!   
 
 
 ## Download
