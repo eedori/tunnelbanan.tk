@@ -17,23 +17,25 @@
 
 ## How To Use
 
-Have a big screen, Visit the website, [tunnelbanan](http:/tunnelbanan.tk) and sit back and relax!
+Have a big screen, Visit the website, [tunnelbanan](http:/tunnelbanan.tk) and sit back and relax!    If i havent already, the source code should be up for grabs. You can otherwise email me for it. To run it, you'll need a couple things...
 
 
 ## Download
 
-    If i havent already, the source code should be up for grabs. You can otherwise email me for it. To run it, you'll need a couple things...
     
+It should already be available for grabs, if it isnt; send a message!
+You'll neex a couple things.
+
     
 ```bash
 # Get PHP and Ajax
-$ The code uses php for the backend!
+ The code uses php for the backend!
 
 # Get an SL api key!
-$ You'll need it to request the JSON from SL. They're not too happy if you try without a key.
+! You'll need it to request the JSON from SL. They're not too happy if you try without a key.
 
 # Build & Run!
-$ Webserver it up, plonk it as your index, and bobs your uncle!
+! Webserver it up, plonk it as your index, and bobs your uncle!
 ```
 
 ## Credits
